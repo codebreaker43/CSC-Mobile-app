@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "597671358744",
+    "firebase_url": "https://galagate-monkey-species-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "galagate-monkey-species",
+    "storage_bucket": "galagate-monkey-species.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597671358744:android:4d31c435b13973b57e2e6d",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiROOw6arBvzcFnHtKw87d2Y2FJoELD0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
